@@ -1,5 +1,9 @@
-Parking API
-
+## Parking API
+```bash
+#setup
+npm install
+npm start
+```
 POST /parking/add-parking-lot  
 Add parking lot with a size of 10 for email test1@test.com
 ```json
